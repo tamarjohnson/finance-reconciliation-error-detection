@@ -1,0 +1,11 @@
+Date,Description,Deposit,Withdrawal,Account_or_Note
+2026-09-01,Opening balance,0,0,Opening balance
+2026-09-03,Customer receipt - INV-101,2500,0,Customer receipt
+2026-09-05,Office supplies - Vendor A,0,420,Office supplies
+2026-09-08,Internet service,0,150,Utilities
+2026-09-10,Customer receipt - INV-102,1800,0,Customer receipt
+2026-09-15,Rent payment - September,0,1200,Rent
+2026-09-18,Customer receipt - INV-103,950,0,Customer receipt
+2026-09-22,Equipment payment - Vendor B,0,860,Equipment
+2026-09-22,Equipment payment - Vendor B,0,860,Possible duplicate entry
+2026-09-26,Customer receipt - INV-105,700,0,Customer receipt

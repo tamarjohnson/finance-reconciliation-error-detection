@@ -1,0 +1,11 @@
+Date,Description,Deposit,Withdrawal,Running_Balance
+2026-09-01,Opening balance,0,0,10000
+2026-09-03,Customer receipt - INV-101,2500,0,12500
+2026-09-05,Office supplies - Vendor A,0,420,12080
+2026-09-08,Internet service,0,150,11930
+2026-09-10,Customer receipt - INV-102,1800,0,13730
+2026-09-12,Bank service charge,0,25,13705
+2026-09-15,Rent payment - September,0,1200,12505
+2026-09-18,Customer receipt - INV-103,950,0,13455
+2026-09-22,Equipment payment - Vendor B,0,680,12775
+2026-09-25,Customer receipt - INV-104,1200,0,13975
